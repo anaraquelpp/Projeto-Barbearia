@@ -1,9 +1,10 @@
-p {
-	text-align: center; 
-} 
-	
+
 body{
 
-	background: #CCCCCC;
+	background: #CCCCCC
+}
+
+p{
+	text-align: center;  
 
 }
